@@ -1,0 +1,7 @@
+---
+title: "Light On Success: 7"
+date: 2024-03-03 00:00:00 +0800
+categories: [Blogging]
+tag: [Blogging]
+image: https://pbs.twimg.com/media/GHCsKRjWMAA6M8Y?format=jpg&name=large
+---
